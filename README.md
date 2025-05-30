@@ -15,7 +15,6 @@
     <a target='_blank' rel='noopener noreferrer' href='https://www.lua.org/about.html'><img title="Lua" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://sequelize.org/'><img title="Sequelize" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.cloudflare.com/'><img title="Cloudflare" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"/></a>
-    <a target='_blank' rel='noopener noreferrer' href='https://expressjs.com/'><img title="Express" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://flask.palletsprojects.com/'><img title="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.sqlalchemy.org/'><img title="SQLAlchemy" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://aws.amazon.com/pm/serv-s3'><img title="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></a>
